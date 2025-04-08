@@ -67,9 +67,8 @@ feel free to connect with me:
  ## 👥 Contributors
 This project was developed collaboratively during AI Training by IIT Kanpur:
 
-- **Vineeth Bhat**  
-- **Anushree K**
-
+- **Vineeth Bhat (https://github.com/vineethbhatalevoor) - Development and Documentation**  
+- **Anushree K (https://github.com/Anushree-K01) - Collaboration and Ideation**
 
 Let's celebrate learning and share knowledge together! 🚀
 
