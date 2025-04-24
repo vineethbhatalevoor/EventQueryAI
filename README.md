@@ -63,9 +63,9 @@ Ideas for extending this project:
 feel free to connect:
 
 - **LinkedIn**: [Vineeth Bhat](https://www.linkedin.com/in/vineethbhatalevoor0507?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- - **Linkedin**: [Anushree K](https://www.linkedin.com/in/anushree-k-36a990330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Linkedin**: [Anushree K](https://www.linkedin.com/in/anushree-k-36a990330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
- ## 👥 Contributors
+ ##  Contributors
 This project was developed collaboratively during AI Training by IIT Kanpur:
 
 - **Vineeth Bhat (https://github.com/vineethbhatalevoor) - Development and Documentation**  
