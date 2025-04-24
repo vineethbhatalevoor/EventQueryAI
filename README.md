@@ -59,10 +59,11 @@ Ideas for extending this project:
 - 💡 Implement NLP for smarter queries like **"Show events next week."**
 - 📊 Visualize event data with charts or graphs.
 
-## 📣 Connect with Me
-feel free to connect with me:
+## 📣 Connect 
+feel free to connect:
 
 - **LinkedIn**: [Vineeth Bhat](https://www.linkedin.com/in/vineethbhatalevoor0507?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- - **Linkedin**: [Anushree K](https://www.linkedin.com/in/anushree-k-36a990330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
  ## 👥 Contributors
 This project was developed collaboratively during AI Training by IIT Kanpur:
